@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: Scott Teruya
+author: Scott Teruya steruya@avc.edu
 date: "Fall semester"
 output: html_document
 ---
